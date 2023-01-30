@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ajay Bade</h1>
-<h3 align="center">A passionate Full stack developer, MERN stack developer, Cyber Security Enthusiast from India</h3>
+<h3 align="center">A passionate Cyber Security Enthusiast and Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajbade&label=Profile%20views&color=0e75b6&style=flat" alt="ajbade" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajbade" alt="ajbade" /></a> </p>
 
-- 🔭 I’m currently working on **EduBlog**
+- 🔭 I’m currently Intern **@AmbiSure**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Eathical Hacking , Cyber Security & Networking**
 
-- 💬 Ask me about **Java , C , C++ , JavaScript , React**
+- 💬 Ask me about **Networking , Computer Security , Cyber Security , Cyber Attack , Cyber Defense , Java , C , C++**
 
 - 📫 How to reach me **bade6281@gmail.com**
 
