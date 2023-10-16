@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Bade</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast and Full stack developer from India</h3>
+<h3 align="center">A passionate Cyber Security Expert and Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajbade&label=Profile%20views&color=0e75b6&style=flat" alt="ajbade" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently Intern **@AmbiSure**
 
-- 🌱 I’m currently learning **Eathical Hacking , Cyber Security & Networking**
+- 🌱 I’m currently learning **Ethical Hacking , Cyber Security & Networking**
 
-- 💬 Ask me about **Networking , Computer Security , Cyber Security , Cyber Attack , Cyber Defense , Java , C , C++**
+- 💬 Ask me about **Networking, Computer Security, Cyber Security, Cyber Attack, Cyber Defense, Java, C, C++, Python Security Tools **
 
 - 📫 How to reach me **bade6281@gmail.com**
 
